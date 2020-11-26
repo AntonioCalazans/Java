@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;cucumberJava&apos; to &apos;br.com.study.cucumber/src/test/resources&apos;&#x0D;&#x0A;- Original project: &apos;br.com.study.cucumber&apos;&#x0D;&#x0A;- Destination element: &apos;br.com.study.cucumber/src/test/resources&apos;&#x0D;&#x0A;- Original element: &apos;br.com.study.cucumber/src/test/java/cucumberJava&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="/src\/test\/resources=/maven.pomderived=/true=/=/test=/true=/" element1="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;cucumberJava" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1605236366515" version="1.0"/>
+</session>

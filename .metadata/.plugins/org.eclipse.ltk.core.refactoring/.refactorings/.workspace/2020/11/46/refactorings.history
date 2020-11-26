@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Crossbrowser&apos;" deleteContents="false" description="Delete resource &apos;Crossbrowser&apos;" element1="/Crossbrowser" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1604975852521"/>
+</session>

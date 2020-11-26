@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;teste/testngCrossBrowserMultipleExecution.xml&apos; to &apos;testng.xml&apos;" description="Rename resource &apos;testngCrossBrowserMultipleExecution.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="testngCrossBrowserMultipleExecution.xml" name="testng.xml" stamp="1604976385819" updateReferences="true"/>
+</session>

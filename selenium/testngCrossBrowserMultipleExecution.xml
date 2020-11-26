@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" thread-count="3" parallel="tests">
+	<test name="Test01">
+		<classes>
+			<class name="parallelTest.CrossBrowserScript">
+			</class>
+		</classes>
+	</test>
+	<test name="02">
+		<classes>
+			<class name="parallelTest.CrossBrowserScript">
+			</class>
+		</classes>
+	</test>
+	<test name="Test03">
+		<classes>
+			<class name="parallelTest.CrossBrowserScript">
+			</class>
+		</classes>
+	</test>
+</suite>
+

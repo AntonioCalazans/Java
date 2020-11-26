@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ExperitestParallelTesting&apos; to &apos;experitestParallelTesting&apos;&#x0D;&#x0A;- Original project: &apos;TestNGexecutionParallel&apos;&#x0D;&#x0A;- Original element: &apos;TestNGexecutionParallel/src/ExperitestParallelTesting&apos;&#x0D;&#x0A;- Renamed element: &apos;TestNGexecutionParallel/src/experitestParallelTesting&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ExperitestParallelTesting&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ExperitestParallelTesting" name="experitestParallelTesting" qualified="false" references="true" stamp="1604543651374" textual="false" version="1.0"/>
+</session>
